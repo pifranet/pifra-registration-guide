@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Sitemap: https://pifranet.github.io/pifra-registration-guide/sitemap.xml
+
+
+
